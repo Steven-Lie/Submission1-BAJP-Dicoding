@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title">How to Train Your Dragon: the Hidden World</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="poster">Poster</string>
+    <string name="genre">Genre : </string>
+    <string name="duration">Duration : </string>
+    <string name="movie">Movie</string>
+    <string name="tv">TV Show</string>
+    <string name="logo">Logo</string>
+    <string name="detail">Detail</string>
+</resources>
